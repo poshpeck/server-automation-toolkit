@@ -1,2 +1,5 @@
 logs/
 *.bak*
+EOFcat > .gitignore << 'EOF'
+logs/
+*.bak*
