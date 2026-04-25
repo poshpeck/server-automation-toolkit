@@ -1,4 +1,4 @@
-# Server Automation Toolkit
+# Devops Server Automation Toolkit
 
 A bash-based toolkit for bootstrapping, monitoring, and hardening Ubuntu servers.
 
